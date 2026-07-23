@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "backend-tasks",
+=======
+  "name": "node2",
+>>>>>>> f16a226d9f17decd1b797663c658bdb48f168e76
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -10,6 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+<<<<<<< HEAD
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.7",
@@ -24,4 +29,9 @@
     "swagger-ui-express": "^5.0.1"
   },
   "keywords": []
+=======
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+>>>>>>> f16a226d9f17decd1b797663c658bdb48f168e76
 }
